@@ -9,12 +9,11 @@
         ],
         "Category": "",
         "Description": "Lain for for Plasma6",
-        "Id": "Lain",
+        "Id": "lain-splashscreen",
         "License": "GPLv3",
-        "Name": "Lain",
+        "Name": "lain-splashscreen",
         "Website": ""
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
     "X-Plasma-APIVersion": "2"
 }
-
